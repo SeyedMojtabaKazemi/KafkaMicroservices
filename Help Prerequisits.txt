@@ -1,0 +1,10 @@
+https://www.oracle.com/java/technologies/downloads/
+
+====================================
+
+https://zookeeper.apache.org/releases.html
+
+====================================
+
+https://kafka.apache.org/downloads
+
